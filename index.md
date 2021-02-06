@@ -10,11 +10,15 @@
 | ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop          | 4-6h           |
 | ⏳      | ⏳    | Search Engine Optimization                                         | 4-6h           |
 | ⏳      | ⏳    | Evaluate promotion channels and give useful advise                 | 4-7h           |
+| ⏳      | ⏳    | Custom Domain (e.g. himalaya-fairtrade.com)                        | 1-2h           |
+| ⏳      | ⏳    | Design and order cool business cards                               | 1-2h           |
 
 
 ## General
 ### Website & No Paper
-I provided this website as a "living" documentation for the current tasks and conditions for our collaboration, because things might & likely will change a lot over the experience both of us will get. Since paper gets obsolete too fast and we are not colocated at the moment I consider this a good way to share, document and discuss agreements. 
+I provided this website as a *living documentation* for the current tasks and conditions for our collaboration, because things might & likely will change a lot over the experience both of us will get. Since paper gets obsolete too fast and we are not co-located at the moment, I consider this a good way to share, document and discuss agreements.
+
+*Is it secure?* No, it is not secure, so we shouldn't put anything secret in here. In my experience, this website will get no attention at all, since it isn't linked at any other website. And even if it (against all odds) does get any attention: Consider it as advertisement for your shop!
 
 ### Trust & Estimations
 **Estimations are not reliable in software development.**
