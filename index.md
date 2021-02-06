@@ -4,7 +4,7 @@
 
 | Agreed | Done | Issue                                                              | Estimated Time |
 | ------ | ---- | ------------------------------------------------------------------ | -------------- |
-| ⏳      | ⏳    | Restructure and simplify the pages of the shop, make it launchable | 6-10h          |
+| ⏳      | ⏳    | Restructure and simplify the pages of the shop, make it launchable | 8-10h          |
 | ⏳      | ⏳    | Fix technical issues (Cut-off image, misleading menu bar etc.)     | 6-10h          |
 | ⏳      | ⏳    | Policy Pages from templates (Data protection, Impressum, Cookies)  | 3-4h           |
 | ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop          | 4-6h           |
