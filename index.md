@@ -12,6 +12,7 @@
 | ⏳      | ⏳    | Evaluate promotion channels and give useful advise                 | 4-7h           |
 | ⏳      | ⏳    | Custom Domain (e.g. himalaya-fairtrade.com)                        | 1-2h           |
 | ⏳      | ⏳    | Design and order cool business cards                               | 1-2h           |
+| ⏳      | ⏳    | Link to other websites                                             | 1h             |
 
 
 ## General
