@@ -25,9 +25,7 @@ I provided this website as a *living documentation* for the current tasks and co
 
 The intention of providing estimates is to have an idea of the expected duration a task will take from the current point of view in order to help prioritizing the work as good as possible. But estimates are no commitment to deliver a work package in a defined amount of time. There are many reasons why something can be harder or easier then expected, so proper duration estimations can only be given in hindsight.
 
-The good part of building an online shop: You have constant real time feedback, since you can always look at the current state and intervene if you consider something is not going into the direction you want it to go.
-
-This said, it becomes more clear that trust is an essential prerequisite to achieve appropriate results in an appropriate amount of time.
+The good part of building an online shop: You have constant real time feedback, since you can always look at the current state and intervene if you consider something is not going into the direction you want it to go. This said, it becomes more clear that bidirectional trust is an essential prerequisite to achieve appropriate results in an appropriate amount of time.
 
 ### Responsibilities & Its Borders
-As a trained and experienced software engineer I can primarily take technical responsibility for the shop. Secondarily, I can provide some good advice and best practices on user experience, design and marketing questions, since all these areas are closely connected. I cannot provide any legal, product or business advice.
+As a trained and experienced software engineer I primarily take technical responsibility for the shop. Secondarily, I can provide some good advice and best practices on the topics of user experience, design and online marketing questions, since all these areas are closely connected. I cannot provide any legal, product or business advice.
