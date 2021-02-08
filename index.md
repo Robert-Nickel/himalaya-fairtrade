@@ -2,17 +2,20 @@
 
 ## Tasks
 
-| Agreed | Done | Issue                                                                                                                                                                     | Estimated Time |
-| ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| ✅       | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          |
-| ⏳      | ⏳    | Fix technical issues (Cut-off image, misleading menu bar etc.)                                                                                                            | 6-10h          |
-| ⏳      | ⏳    | Policy Pages from templates ([Data protection](https://help.shopify.com/pdf/gdpr-whitepaper.pdf), [Impressum](https://www.shopify.de/tools/impressum-generator), Cookies) | 3-4h           |
-| ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop                                                                                                                 | 4-6h           |
-| ⏳      | ⏳    | Search Engine Optimization                                                                                                                                                | 4-6h           |
-| ⏳      | ⏳    | Evaluate promotion channels and give useful advise                                                                                                                        | 4-7h           |
-| ⏳      | ⏳    | Custom Domain (e.g. himalaya-fairtrade.com)                                                                                                                               | 1-2h           |
-| ⏳      | ⏳    | Design and order cool business cards                                                                                                                                      | 1-2h           |
-| ⏳      | ⏳    | Link to other websites                                                                                                                                                    | 1h             |
+| Agreed | Done | Issue                                                                                                                                                                     | Estimated Time | Invested Time |
+| ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- |
+| ✅      | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5h         |
+|        |      | Presort collections by price                                                                                                                                              |                |               |
+|        |      | Make size of Covers more prominent/clear (by making the size filters more prominent)                                                                                      |                |               |
+|        |      | Fix Yak image and caption for all devices                                                                                                                                 |                |               |
+| ✅      | ⏳    | Fix technical issues (Cut-off image, misleading menu bar etc.)                                                                                                            | 6-10h          |               |
+| ✅      | ⏳    | Policy Pages from templates ([Data protection](https://help.shopify.com/pdf/gdpr-whitepaper.pdf), [Impressum](https://www.shopify.de/tools/impressum-generator), Cookies) | 3-4h           |               |
+| ✅      | ⏳    | Move custom domain to shopify (himalaya-fairtrade.de), get more details from Massimo                                                                                      | 1-2h           |               |
+| ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop                                                                                                                 | 4-6h           |               |
+| ⏳      | ⏳    | Search Engine Optimization                                                                                                                                                | 4-6h           |               |
+| ⏳      | ⏳    | Evaluate promotion channels and give useful advise                                                                                                                        | 4-7h           |               |
+| ⏳      | ⏳    | Design and order cool business cards                                                                                                                                      | 1-2h           |               |
+| ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                                                                                                           | 1-2h           |               |
 
 
 ## General
