@@ -4,8 +4,8 @@
 
 | Agreed | Done | Issue                                                                                                                                                                     | Estimated Time | Invested Time |
 | ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- |
-| ✅      | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5h            |
-|        |      | Presort collections by price                                                                                                                                              |                |               |
+| ✅      | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5,5h            |
+|        | ✅    | Presort collections by price                                                                                                                                              |                |               |
 |        |      | Make size of Covers more prominent/clear (by making the size filters more prominent)                                                                                      |                |               |
 |        |      | Fix Yak image and caption for all devices. [Font Sanskrit](https://www.wfonts.com/font/sanskrit)                                                                          |                |               |
 | ✅      | ⏳    | Fix technical issues (Cut-off image, misleading menu bar etc.)                                                                                                            | 6-10h          |               |
@@ -33,3 +33,7 @@ The good part of building an online shop: You have constant real time feedback, 
 
 ### Responsibilities & Its Borders
 As a trained and experienced software engineer I primarily take technical responsibility for the shop. Secondarily, I can provide some good advice and best practices on the topics of user experience, design and online marketing questions, since all these areas are closely connected. I cannot provide any legal, product or business advice.
+
+## Questions
+- Why does a product have "liniert, kariert, Adressbuch, Organizer" in the description? Which of those will be in the cover?
+- Why is on the "Über die Größen" Page no image of DIN A5?
