@@ -4,10 +4,10 @@
 
 | Agreed | Done | Issue                                                                                                                                                                     | Estimated Time | Invested Time |
 | ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- |
-| ✅      | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5h         |
+| ✅      | ⏳    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5h            |
 |        |      | Presort collections by price                                                                                                                                              |                |               |
 |        |      | Make size of Covers more prominent/clear (by making the size filters more prominent)                                                                                      |                |               |
-|        |      | Fix Yak image and caption for all devices                                                                                                                                 |                |               |
+|        |      | Fix Yak image and caption for all devices. [Font Sanskrit](https://www.wfonts.com/font/sanskrit)                                                                          |                |               |
 | ✅      | ⏳    | Fix technical issues (Cut-off image, misleading menu bar etc.)                                                                                                            | 6-10h          |               |
 | ✅      | ⏳    | Policy Pages from templates ([Data protection](https://help.shopify.com/pdf/gdpr-whitepaper.pdf), [Impressum](https://www.shopify.de/tools/impressum-generator), Cookies) | 3-4h           |               |
 | ✅      | ⏳    | Move custom domain to shopify (himalaya-fairtrade.de), get more details from Massimo                                                                                      | 1-2h           |               |
