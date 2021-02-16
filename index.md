@@ -8,6 +8,7 @@
 | ✅      | ✅    | Presort collections by price                                                                                                                                              |                |               |
 | ✅      | ✅    | Update the navigation bar, so it is possible to go the size-path or the motiv-path                                                                                        |                |               |
 | ✅      | ✅    | Fix Yak image and caption for all devices.                                                                                                                                |                | 1             |
+| ✅      | ⏳    | Transfer the domain to namecheap and connect it to shopify.                                                                                                               | 1              | 1             |
 | ✅      | ⏳    | Policy Pages from templates ([Data protection](https://help.shopify.com/pdf/gdpr-whitepaper.pdf), [Impressum](https://www.shopify.de/tools/impressum-generator), Cookies) | 3-4h           |               |
 | ✅      | ⏳    | Move custom domain to shopify (himalaya-fairtrade.de), get more details from Massimo                                                                                      | 1-2h           |               |
 | ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop                                                                                                                 | 4-6h           |               |
