@@ -2,21 +2,22 @@
 
 ## Tasks
 
-| Agreed | Done | Issue                                                                                                                                                                     | Estimated Time | Invested Time |
-| ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- |
-| ✅      | ✅    | Restructure and simplify the pages of the shop, make it launchable                                                                                                        | 8-10h          | 5,5h          |
-| ✅      | ✅    | Presort collections by price                                                                                                                                              |                |               |
-| ✅      | ✅    | Update the navigation bar, so it is possible to go the size-path or the motiv-path                                                                                        | 1              | 2             |
-| ✅      | ✅    | Fix Yak image and caption for all devices.                                                                                                                                |                | 1             |
-| ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                                                                                                               | 1-2            | 2             |
-| ✅      | ⏳    | Policy Pages from templates ([Data protection](https://help.shopify.com/pdf/gdpr-whitepaper.pdf), [Impressum](https://www.shopify.de/tools/impressum-generator), Cookies) | 3-4h           |               |
-| ✅      | ⏳    | Move custom domain to shopify (himalayafairtrade.de), get more details from Massimo                                                                                       | 1-2h           | 1,5           |
-| ✅      | ⏳    | Checkout process                                                                                                                                                          | 4h             |               |
-| ⏳      | ⏳    | Add more character (colors, logo, fonts, ...) to the shop                                                                                                                 | 4-6h           |               |
-| ⏳      | ⏳    | Search Engine Optimization                                                                                                                                                | 4-6h           |               |
-| ⏳      | ⏳    | Evaluate promotion channels and give useful advise                                                                                                                        | 4-7h           |               |
-| ⏳      | ⏳    | Design and order cool business cards                                                                                                                                      | 1-2h           |               |
-| ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                                                                                                           | 1-2h           |               |
+| Agreed | Done | Issue                                                                               | Estimation | Invested | Paid |
+| ------ | ---- | ----------------------------------------------------------------------------------- | ---------- | -------- | ---- |
+| ✅      | ✅    | Restructure and simplify the pages of the shop, make it launchable                  | 8-10       | 5,5      | 5,5  |
+| ✅      | ✅    | Presort collections by price                                                        |            |          |      |
+| ✅      | ✅    | Update the navigation bar, so it is possible to go the size-path or the motiv-path  | 1          | 2        | 2    |
+| ✅      | ✅    | Fix Yak image and caption for all devices.                                          |            | 1        | 0,5  |
+| ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                         | 1-2        | 2        |      |
+| ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      |      |
+| ✅      | ✅    | Checkout process                                                                    | 4          | 2,5      |      |
+| ✅      | ⏳    | Go Live                                                                             | 2          |          |      |
+| ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
+| ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  | 4-7        |          |      |
+| ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
+| ⏳      | ⏳    | Design and order cool business cards                                                | 1-2        |          |      |
+|        |      |                                                                                     |            |          |      |
+
 
 
 ## General
@@ -34,7 +35,3 @@ The good part of building an online shop: You have constant real time feedback, 
 
 ### Responsibilities & Its Borders
 As a trained and experienced software engineer I primarily take technical responsibility for the shop. Secondarily, I can provide some good advice and best practices on the topics of user experience, design and online marketing questions, since all these areas are closely connected. I cannot provide any legal, product or business advice.
-
-## Questions
-- Why does a product have "liniert, kariert, Adressbuch, Organizer" in the description? Which of those will be in the cover?
-- Why is on the "Über die Größen" Page no image of DIN A5?
