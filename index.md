@@ -11,13 +11,12 @@
 | ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                         | 1-2        | 2        |      |
 | ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      |      |
 | ✅      | ✅    | Checkout process                                                                    | 4          | 2,5      |      |
-| ✅      | ⏳    | Go Live                                                                             | 2          |          |      |
+| ✅      | ⏳    | Go Live (Show test order, disable test payments if ready)                           | 1-3        |          |      |
+| ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
 | ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  | 4-7        |          |      |
 | ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
-| ⏳      | ⏳    | Design and order cool business cards                                                | 1-2        |          |      |
-|        |      |                                                                                     |            |          |      |
-
+| ⏳      | ⏳    | Design cool business cards                                                          | 1-2        |          |      |
 
 
 ## General
