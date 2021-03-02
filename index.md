@@ -12,9 +12,9 @@
 | ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      |      |
 | ✅      | ✅    | Checkout process                                                                    | 4          | 2,5      |      |
 | ✅      | ⏳    | Legal check by shopify                                                              |            |          |      |
+| ✅      | ⏳    | Go Live (Show test order, disable test payments if ready)                           | 1-3        | 1,75     |      |
 | ✅      | ⏳    | Paypal 4 business                                                                   |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
-| ✅      | ⏳    | Go Live (Show test order, disable test payments if ready)                           | 1-3        | 0,5      |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
 | ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  | 4-7        |          |      |
