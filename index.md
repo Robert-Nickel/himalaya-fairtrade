@@ -10,11 +10,11 @@
 | ✅      | ✅    | Fix Yak image and caption for all devices.                                          |            | 1        | 0,5  |
 | ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                         | 1-2        | 2        |      |
 | ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      |      |
-| ✅      | ✅    | Checkout process                                                                    | 4          | 2,75      |      |
+| ✅      | ✅    | Checkout process                                                                    | 4          | 2,75     |      |
 | ✅      | ⏳    | Legal check by shopify                                                              |            |          |      |
-| ✅      | ⏳    | check cookies and data deletion                                                     |            |          |      |
-| ✅      | ⏳    | Go Live (Show test order, disable test payments if ready)                           | 1-3        | 1,75     |      |
-| ✅      | ⏳    | Paypal 4 business                                                                   |            |          |      |
+| ✅      | ✅    | check cookies and data deletion                                                     |            | 0,5      |      |
+| ✅      | ⏳    | Go Live (Show test order ✅, disable test payments if ready)                         | 1-3        | 1,75     |      |
+| ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
