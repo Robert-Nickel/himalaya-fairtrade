@@ -7,13 +7,15 @@
 | ✅      | ✅    | Restructure and simplify the pages of the shop, make it launchable                  | 8-10       | 5,5      | 5,5  |
 | ✅      | ✅    | Presort collections by price                                                        |            |          |      |
 | ✅      | ✅    | Update the navigation bar, so it is possible to go the size-path or the motiv-path  | 1          | 2        | 2    |
-| ✅      | ✅    | Fix Yak image and caption for all devices.                                          |            | 1        | 0,5  |
-| ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                         | 1-2        | 2        |      |
-| ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      |      |
-| ✅      | ✅    | Checkout process                                                                    | 4          | 2,75     |      |
-| ✅      | ✅    | check cookies and data deletion                                                     |            | 0,75     |      |
-| ✅      | ✅    | Find and evaluate german template generator for the legal texts                     |            | 0,75     |      |
-| ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 2        |      |
+| ✅      | ✅    | Fix Yak image and caption for all devices.                                          |            | 1        | 1    |
+| ✅      | ✅    | Transfer the domain to namecheap and connect it to shopify.                         | 1-2        | 2        | 2    |
+| ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      | 1,5  |
+| ✅      | ✅    | Checkout process                                                                    | 4          | 2,75     | 2,75 |
+| ✅      | ✅    | check cookies and data deletion                                                     |            | 0,75     | 0,75 |
+| ✅      | ✅    | Find and evaluate german template generator for the legal texts                     |            | 0,75     | 0,5  |
+| ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 2,75     |      |
+| ✅      | ⏳    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            |          |      |
+| ✅      | ⏳    | Configure ePrivacy page german                                                      |            |          |      |
 | ✅      | ⏳    | Go Live                                                                             |            |          |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
@@ -22,6 +24,7 @@
 | ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  | 4-7        |          |      |
 | ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
 | ⏳      | ⏳    | Design cool business cards                                                          | 1-2        |          |      |
+
 
 ## General
 ### Website & No Paper
