@@ -14,8 +14,8 @@
 | ✅      | ✅    | check cookies and data deletion                                                     |            | 0,75     | 0,75 |
 | ✅      | ✅    | Find and evaluate german template generator for the legal texts                     |            | 0,75     | 0,5  |
 | ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 2,75     |      |
-| ✅      | ⏳    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            |          |      |
-| ✅      | ⏳    | Configure ePrivacy page german                                                      |            |          |      |
+| ✅      | ✅    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            | 0,75     |      |
+| ✅      | ✅    | Configure ePrivacy page german                                                      |            | 0,5      |      |
 | ✅      | ⏳    | Go Live                                                                             |            |          |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
