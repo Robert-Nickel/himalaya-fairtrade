@@ -16,7 +16,7 @@
 | ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 2,75     |      |
 | ✅      | ✅    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            | 0,75     |      |
 | ✅      | ✅    | Configure ePrivacy page german                                                      |            | 0,5      |      |
-| ✅      | ⏳    | Go Live                                                                             |            |          |      |
+| ✅      | ⏳    | Go Live                                                                             |            | 0,5      |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
