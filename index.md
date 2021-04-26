@@ -18,7 +18,7 @@
 | ✅      | ✅    | Configure ePrivacy page german                                                      |            | 0,5      |      |
 | ✅      | ✅    | Add link to indreni.org                                                             |            | 0,25     |      |
 | ✅      | ✅    | Configure hyperlinks on product pages                                               |            | 0,25     |      |
-| ✅      | ✅    | Discuss marketing, navigation, further steps                                        |            | 1        |      | 0,25 |  |
+| ✅      | ✅    | Discuss marketing, navigation, further steps                                        |            | 1        |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
