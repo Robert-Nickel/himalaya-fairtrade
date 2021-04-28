@@ -19,7 +19,7 @@
 | ✅      | ✅    | Add link to indreni.org                                                             |            | 0,25     |      |
 | ✅      | ✅    | Configure hyperlinks on product pages                                               |            | 0,25     |      |
 | ✅      | ✅    | Discuss marketing, navigation, further steps                                        |            | 1        |      |
-| ✅      | ✅    | Design a cool Flyer                                                                 |            | 1        |      |
+| ✅      | ✅    | Design a cool Flyer                                                                 |            | 1,5      |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
