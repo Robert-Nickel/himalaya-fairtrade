@@ -12,14 +12,16 @@
 | ✅      | ✅    | Create frame for policy pages, explain what is required (doesn't include the texts) | 3-4        | 1,5      | 1,5  |
 | ✅      | ✅    | Checkout process                                                                    | 4          | 2,75     | 2,75 |
 | ✅      | ✅    | check cookies and data deletion                                                     |            | 0,75     | 0,75 |
-| ✅      | ✅    | Find and evaluate german template generator for the legal texts                     |            | 0,75     | 0,5  |
-| ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 3,25     |      |
-| ✅      | ✅    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            | 0,75     |      |
-| ✅      | ✅    | Configure ePrivacy page german                                                      |            | 0,5      |      |
-| ✅      | ✅    | Add link to indreni.org                                                             |            | 0,25     |      |
-| ✅      | ✅    | Configure hyperlinks on product pages                                               |            | 0,25     |      |
-| ✅      | ✅    | Discuss marketing, navigation, further steps                                        |            | 1        |      |
+| ✅      | ✅    | Find and evaluate german template generator for the legal texts                     |            | 0,75     | 0,75 |
+| ✅      | ✅    | Prepare Go Live (Show test order , disable test payments)                           | 1-3        | 3,25     | 3,25 |
+| ✅      | ✅    | Configure policy pages with the new texts (+ write 'Versandkosten')                 |            | 0,75     | 0,75 |
+| ✅      | ✅    | Configure ePrivacy page german                                                      |            | 0,5      | 0,5  |
+| ✅      | ✅    | Add link to indreni.org                                                             |            | 0,25     | 0,25 |
+| ✅      | ✅    | Configure hyperlinks on product pages                                               |            | 0,25     | 0,25 |
+| ✅      | ✅    | Discuss marketing, navigation, further steps                                        |            | 1        | 1    |
 | ✅      | ✅    | Design a cool Flyer                                                                 |            | 1,5      |      |
+| ✅      | ✅    | Reassemble the navigation and collections                                           |            | 1,5      |      |
+| ✅      | ✅    | Technical setup                                                                     |            | 1,5      |      |
 | ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
 | ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
 | ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
