@@ -22,7 +22,7 @@
 | ✅      | ✅    | Design a cool Flyer                                                                 |            | 1,5      | 1,5  |
 | ✅      | ✅    | Reassemble the navigation and collections                                           |            | 1,5      | 1,5  |
 | ✅      | ✅    | Technical setup                                                                     |            | 1,5      | 1,5  |
-| ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1,5      | 1,5  |
+| ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1        |      |
 | ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  |            |          |      |
 | ✅      | ⏳    | "Mehr erfahren" on Cookie Banner is broken                                          |            |          |      |
 | ✅      | ⏳    | Formatting details as discussed                                                     |            |          |      |
