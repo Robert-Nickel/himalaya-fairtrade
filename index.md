@@ -22,13 +22,16 @@
 | ✅      | ✅    | Design a cool Flyer                                                                 |            | 1,5      | 1,5  |
 | ✅      | ✅    | Reassemble the navigation and collections                                           |            | 1,5      | 1,5  |
 | ✅      | ✅    | Technical setup                                                                     |            | 1,5      | 1,5  |
-| ✅      | ⏳    | Add paypal 4 business                                                               |            |          |      |
-| ✅      | ⏳    | Missing photo in the customer email                                                 |            |          |      |
-| ✅      | ⏳    | Get an understanding of the provided measures                                       | 1          |          |      |
+| ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1,5      | 1,5  |
+| ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  |            |          |      |
+| ✅      | ⏳    | "Mehr erfahren" on Cookie Banner is broken                                          |            |          |      |
+| ✅      | ⏳    | Formatting details as discussed                                                     |            |          |      |
+| ✅      | ⏳    | Widerrufsformular as PDF download                                                   |            |          |      |
+| ✅      | ⏳    | Diashow for Halskette on front page                                                 |            |          |      |
+| ✅      | ⏳    | Add navigation for Schmuck                                                          |            |          |      |
+| ✅      | ⏳    | Delete test orders                                                                  |            |          |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
-| ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  | 4-7        |          |      |
 | ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
-| ⏳      | ⏳    | Design cool business cards                                                          | 1-2        |          |      |
 
 
 ## General
