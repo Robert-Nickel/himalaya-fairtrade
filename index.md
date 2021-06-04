@@ -25,11 +25,11 @@
 | ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1        |      |
 | ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  |            |          |      |
 | ✅      | ⏳    | "Mehr erfahren" on Cookie Banner is broken                                          |            |          |      |
-| ✅      | ⏳    | Formatting details as discussed                                                     |            |          |      |
+| ✅      | ⏳    | Formatting details as discussed                                                     |            | 1        |      |
 | ✅      | ⏳    | Widerrufsformular as PDF download                                                   |            |          |      |
 | ✅      | ⏳    | Diashow for Halskette on front page                                                 |            |          |      |
 | ✅      | ⏳    | Add navigation for Schmuck                                                          |            |          |      |
-| ✅      | ⏳    | Delete test orders                                                                  |            |          |      |
+| ✅      | ✅    | Delete test orders                                                                  |            |          |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
 | ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
 
