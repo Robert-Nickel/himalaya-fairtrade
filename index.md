@@ -23,9 +23,9 @@
 | ✅      | ✅    | Reassemble the navigation and collections                                           |            | 1,5      | 1,5  |
 | ✅      | ✅    | Technical setup                                                                     |            | 1,5      | 1,5  |
 | ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1        |      |
-| ✅      | ✅    | Evaluate promotion channels and give useful advise                                  |            | 1,15     |      |
+| ✅      | ✅    | Evaluate promotion channels and give useful advise                                  |            | 1,5      |      |
 | ✅      | ✅    | "Mehr erfahren" on Cookie Banner is broken                                          |            | 0,15     |      |
-| ✅      | ⏳    | Formatting details as discussed                                                     |            | 1        |      |
+| ✅      | ✅    | Formatting details as discussed                                                     |            | 1,15     |      |
 | ✅      | ✅    | Widerrufsformular as PDF download                                                   |            | 0,15     |      |
 | ✅      | ⏳    | Diashow for Halskette on front page                                                 |            |          |      |
 | ✅      | ✅    | Add navigation for Schmuck                                                          |            | 0,5      |      |
