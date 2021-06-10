@@ -23,13 +23,13 @@
 | ✅      | ✅    | Reassemble the navigation and collections                                           |            | 1,5      | 1,5  |
 | ✅      | ✅    | Technical setup                                                                     |            | 1,5      | 1,5  |
 | ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1        |      |
-| ✅      | ⏳    | Evaluate promotion channels and give useful advise                                  |            |          |      |
-| ✅      | ⏳    | "Mehr erfahren" on Cookie Banner is broken                                          |            |          |      |
+| ✅      | ✅    | Evaluate promotion channels and give useful advise                                  |            | 1,15     |      |
+| ✅      | ✅    | "Mehr erfahren" on Cookie Banner is broken                                          |            | 0,15     |      |
 | ✅      | ⏳    | Formatting details as discussed                                                     |            | 1        |      |
-| ✅      | ⏳    | Widerrufsformular as PDF download                                                   |            |          |      |
+| ✅      | ✅    | Widerrufsformular as PDF download                                                   |            | 0,15     |      |
 | ✅      | ⏳    | Diashow for Halskette on front page                                                 |            |          |      |
-| ✅      | ⏳    | Add navigation for Schmuck                                                          |            |          |      |
-| ✅      | ✅    | Delete test orders                                                                  |            |          |      |
+| ✅      | ✅    | Add navigation for Schmuck                                                          |            | 0,5      |      |
+| ✅      | ✅    | Delete test orders                                                                  |            | 0        |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
 | ✅      | ⏳    | "Meet us"-Page (with calendar for real markets)                                     | 1-2        |          |      |
 
