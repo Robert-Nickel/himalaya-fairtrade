@@ -27,7 +27,7 @@
 | ✅      | ✅    | "Mehr erfahren" on Cookie Banner is broken                                          |            | 0,15     |      |
 | ✅      | ✅    | Formatting details as discussed                                                     |            | 1,15     |      |
 | ✅      | ✅    | Widerrufsformular as PDF download                                                   |            | 0,15     |      |
-| ✅      | ⏳    | Diashow for Halskette on front page                                                 |            |          |      |
+| ✅      | ✅    | Diashow for Halskette on front page                                                 |            | 0,5      |      |
 | ✅      | ✅    | Add navigation for Schmuck                                                          |            | 0,5      |      |
 | ✅      | ✅    | Delete test orders                                                                  |            | 0        |      |
 | ✅      | ⏳    | Search Engine Optimization                                                          | 4-6        |          |      |
