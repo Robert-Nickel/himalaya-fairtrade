@@ -24,9 +24,9 @@
 | ✅      | ✅    | Technical setup                                                                     |            | 1,5      | 1,5  |
 | ✅      | ✅    | Meeting redefinition of tasks                                                       |            | 1        |      |
 | ✅      | ✅    | Evaluate promotion channels and give useful advise                                  |            | 1,5      |      |
-| ✅      | ✅    | "Mehr erfahren" on Cookie Banner is broken                                          |            | 0,15     |      |
-| ✅      | ✅    | Formatting details as discussed                                                     |            | 1,15     |      |
-| ✅      | ✅    | Widerrufsformular as PDF download                                                   |            | 0,15     |      |
+| ✅      | ✅    | "Mehr erfahren" on Cookie Banner is broken                                          |            | 0,25     |      |
+| ✅      | ✅    | Formatting details as discussed                                                     |            | 1,5     |      |
+| ✅      | ✅    | Widerrufsformular as PDF download                                                   |            | 0,25     |      |
 | ✅      | ✅    | Diashow for Halskette on front page                                                 |            | 0,5      |      |
 | ✅      | ✅    | Add navigation for Schmuck                                                          |            | 0,5      |      |
 | ✅      | ✅    | Delete test orders                                                                  |            | 0        |      |
